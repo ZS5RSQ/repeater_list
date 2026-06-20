@@ -1,5 +1,7 @@
 # South African Repeaters
 
+**Status Key:** 🟠 Unknown | 🟢 Operational | 🔴 Non Operational
+
 | Status | ClubCallSign | ClubName                         | RepeaterCallsign | StationLocation     | Band | Mode       | Tone | TxFreqMHz | RxFreqMHz | ChannelSpacing | GridLocator |
 | ------ | ------------ | -------------------------------- | ---------------- | ------------------- | ---- | ---------- | ---- | --------- | --------- | -------------- | ----------- |
 | 🟠     | WCRWG        | Western Cape RWG                 | ZU9ALB           | Albertinia          | 2m   | Albertinia |      | 145.625   | 145.025   | 12.5           | KF05UT      |
