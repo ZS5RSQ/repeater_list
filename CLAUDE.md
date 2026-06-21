@@ -13,3 +13,4 @@
 - All blank Status cells were filled with 🟠 (Unknown).
 - A legend/key line was added above the table:
   `**Status Key:** 🟠 Unknown | 🟢 Operational | 🔴 Non Operational`
+- Reorganised from a single flat table into 80 H3 sections, one per unique StationLocation, each with its own table. The StationLocation column was dropped from the sub-tables as it is redundant with the section header.
