@@ -240,7 +240,7 @@
 | Status | ClubCallSign | ClubName    | RepeaterCallsign | Band | Mode  | Tone | TxFreqMHz | RxFreqMHz | ChannelSpacing | GridLocator |
 | ------ | ------------ | ----------- | ---------------- | ---- | ----- | ---- | --------- | --------- | -------------- | ----------- |
 | 🟠     | ZS5HAM       | Highway ARC | ZU9KL            | 2m   | Voice | 88.5 | 145.625   | 145.025   | 12.5           | KG50je      |
-| 🟠     | ZS5HAM       | Highway ARC | ZU9KLA           | 70cm | Voice |      | 438.200   | 430.600   | 25             | KG50je      |
+| 🟢     | ZS5HAM       | Highway ARC | ZU9KLA           | 70cm | Voice |      | 438.200   | 430.600   | 25             | KG50je      |
 | 🟢     | ZS5HAM       | Highway ARC | ZU9MM            | 2m   | Voice | 88.5 | 145.7625  | 145.1625  | 12.5           | KG50mg      |
 
 ### Kroonstad
