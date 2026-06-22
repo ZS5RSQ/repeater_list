@@ -120,11 +120,11 @@
 
 ### Durban
 
-| Status | ClubCallSign | ClubName | RepeaterCallsign | Band | Mode | Tone | TxFreqMHz | RxFreqMHz | ChannelSpacing | GridLocator |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 🟢 | ZS5HAM | Highway ARC | ZU9DH | 70cm | Voice |  | 439.025 | 431.025 | 25 | KG50ld |
-| 🟢 | ZS5D | Durban ARC | ZU9PKP | 2m | Voice |  | 145.650 | 145.050 | 12.5 | KG50mb |
-| 🟠 | ZS5D | Durban ARC | ZU9QKB | 2m | Voice |  | 145.725 | 145.125 | 12.5 | KG50mg |
+| Status | ClubCallSign | ClubName    | RepeaterCallsign | Band | Mode  | Tone | TxFreqMHz | RxFreqMHz | ChannelSpacing | GridLocator |
+| ------ | ------------ | ----------- | ---------------- | ---- | ----- | ---- | --------- | --------- | -------------- | ----------- |
+| 🟢     | ZS5HAM       | Highway ARC | ZU9DH            | 70cm | Voice |      | 439.025   | 431.025   | 25             | KG50ld      |
+| 🟢     | ZS5D         | Durban ARC  | ZU9PKP           | 2m   | Voice |      | 145.650   | 145.050   | 12.5           | KG50mb      |
+| 🟠     | ZS5D         | Durban ARC  | ZU9QKB           | 2m   | Voice |      | 145.725   | 145.125   | 12.5           | KG50mg      |
 
 ### East London
 
@@ -199,9 +199,9 @@
 
 ### Hillcrest
 
-| Status | ClubCallSign | ClubName | RepeaterCallsign | Band | Mode | Tone | TxFreqMHz | RxFreqMHz | ChannelSpacing | GridLocator |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 🟠 | ZS5HAM | Highway Amateur Radio Club | ZU9PKL |  |  | 88.5 | 145.625 | 145.025 | 12.5 | KG50je |
+| Status | ClubCallSign | ClubName                   | RepeaterCallsign | Band | Mode | Tone | TxFreqMHz | RxFreqMHz | ChannelSpacing | GridLocator |
+| ------ | ------------ | -------------------------- | ---------------- | ---- | ---- | ---- | --------- | --------- | -------------- | ----------- |
+| 🟠     | ZS5HAM       | Highway Amateur Radio Club | ZU9PKL           |      |      | 88.5 | 145.625   | 145.025   | 12.5           | KG50je      |
 
 ### Humansdorp
 
@@ -237,11 +237,11 @@
 
 ### Kloof
 
-| Status | ClubCallSign | ClubName | RepeaterCallsign | Band | Mode | Tone | TxFreqMHz | RxFreqMHz | ChannelSpacing | GridLocator |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 🟠 | ZS5HAM | Highway ARC | ZU9KL | 2m | Voice | 88.5 | 145.625 | 145.025 | 12.5 | KG50je |
-| 🟠 | ZS5HAM | Highway ARC | ZU9KLA | 70cm | Voice |  | 438.200 | 430.600 | 25 | KG50je |
-| 🟠 | ZS5HAM | Highway ARC | ZU9MM | 2m | Voice | 88.5 | 145.7625 | 145.1625 | 12.5 | KG50mg |
+| Status | ClubCallSign | ClubName    | RepeaterCallsign | Band | Mode  | Tone | TxFreqMHz | RxFreqMHz | ChannelSpacing | GridLocator |
+| ------ | ------------ | ----------- | ---------------- | ---- | ----- | ---- | --------- | --------- | -------------- | ----------- |
+| 🟠     | ZS5HAM       | Highway ARC | ZU9KL            | 2m   | Voice | 88.5 | 145.625   | 145.025   | 12.5           | KG50je      |
+| 🟠     | ZS5HAM       | Highway ARC | ZU9KLA           | 70cm | Voice |      | 438.200   | 430.600   | 25             | KG50je      |
+| 🟢     | ZS5HAM       | Highway ARC | ZU9MM            | 2m   | Voice | 88.5 | 145.7625  | 145.1625  | 12.5           | KG50mg      |
 
 ### Kroonstad
 
